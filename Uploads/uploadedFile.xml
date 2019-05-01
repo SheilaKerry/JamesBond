@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programmeData>
+<programme id="1">
+
+		<name>A nightmare on Elm Street</name>
+		<imagePath>Images/ElmStreet.jpg</imagePath> 
+		<mood>Scared</mood>
+
+		</programme> 
+<programme id="2">
+
+	
+		<name>School of Rock</name>
+		<imagePath>Images/School.jpg</imagePath>
+		<mood>Happy</mood> 
+ 
+	</programme> 
+		<programme id="3">
+			
+			<name>First Blood</name>
+			<imagePath>Images/First.jpg</imagePath>
+			<mood>Wide Awake</mood>
+			
+		</programme>
+		<programme id="4">
+			
+			<name>The Circle</name>
+			<imagePath>Images/TheCircle.jpg</imagePath> 
+			<mood>Agitated</mood>
+			
+		</programme> 
+		<programme id="5">
+			
+			<name>The Lion King</name>
+			<imagePath>Images/LionKing.jpg</imagePath> 
+			<mood>Happy</mood>
+			
+		</programme>
+		<programme id="6">
+			
+			<name>12 Years A Slave</name>
+			<imagePath>Images/12YearSlave.jpg</imagePath> 
+			<mood>Sad</mood>
+		
+		</programme>
+		<programme id="7">
+			
+			<name>March of the Penguins</name>
+			<imagePath>Images/MarchPenguins.jpg</imagePath> 
+			<mood>Calm</mood>
+			
+		</programme>
+		<programme id="8">
+		
+			<name>Baby Drive</name>
+			<imagePath>Images/BabyDriver.jpg</imagePath> 
+			<mood>Fearless</mood>
+			
+		</programme>		
+		<programme id="9">
+			
+			<name>Crazy Rich Asians</name>
+			<imagePath>Images/RichAsians.jpg</imagePath> 
+			<mood>Wide Awake</mood>
+			
+		</programme>
+		<programme id="10">
+			
+			<name>Before Sunrise</name>
+			<imagePath>Images/BeforeSunrise.jpeg</imagePath> 
+			<mood>Tired</mood>
+			
+		</programme>
+		<programme id="11">
+			
+			<name>Finding Nemo</name>
+			<imagePath>Images/FindingNemo.jpg</imagePath> 
+			<mood>Happy</mood>
+			
+		</programme>
+<programme id="12">
+			
+			<name>Amelie</name>
+			<imagePath>Images/Amelie.jpg</imagePath> 
+			<mood>Happy</mood>
+			
+		</programme>
+<programme id="13">
+			
+			<name>In Bruges</name>
+			<imagePath>Images/InBruges.jpg</imagePath> 
+			<mood>Happy</mood>
+			
+		</programme>
+</programmeData>
