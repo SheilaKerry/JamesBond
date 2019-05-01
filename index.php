@@ -5,9 +5,6 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-        <link href="moodsliderStyle.css" rel="stylesheet" type="text/css"/>
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
         <title>Sky</title>
     </head>
     <body>
@@ -45,6 +42,20 @@
         } catch (Exception $e) {
             $e->getMessage();
         }
+        
+        $file = "Uploads/uploadedFile.xml";
+$uploadedFile = simplexml_load_file($file);
+print_r($uploadedFile->children());
+foreach($uploadedFile->children() as $channel) {
+    echo $channel -> title.",";
+    echo $channel -> start.",";
+    echo $channel -> end.",";
+    echo $channel -> year. PHP_EOL;
+    
+    
+}
         ?>
+        
+        
     </body>
 </html>
