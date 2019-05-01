@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<programme>
+    <channel ="Sean Connery">
+      <title lang="en">Dr. No</title>
+      <start>13:00</start>
+      <end>14:30</end>
+      <year>1962</year>
+    </channel>
+    <channel ="George Lazenby">
+      <title lang="en">From Russia with Love</title>
+      <start>12:00</start>
+      <end>15:00</end>
+      <year>1963</year>
+    </channel>
+    <channel ="Roger Moore">
+      <title lang="en">Goldfinger</title>
+      <start>18:00</start>
+      <end>20:00</end>
+      <year>1964</year>
+    </channel>
+    <channel ="Timothy Dalton">
+      <title lang="en">Thunderball</title>
+      <start>08:00</start>
+      <end>11:00</end>
+      <year>1965</year>
+    </channel>
+    <channel ="Pierce Brosnan">
+      <title lang="en">Casino Royale</title>
+      <start>14:15</start>
+      <end>17:00</end>
+      <year>1967</year>
+    </channel>
+    <channel ="Daniel Craig">
+      <title lang="en">You Only Live Twice</title>
+      <start>19:15</start>
+      <end>22:00</end>
+      <year>1967</year>
+    </channel>
+</programme>
